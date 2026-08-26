@@ -1,0 +1,20 @@
+SPHERE WORLD — VERSÃO MOBILE
+
+Esta é a mesma experiência do pacote offline, adaptada para telas de smartphone e com orientação portrait.
+
+iPhone/iPad:
+1. Publique ou hospede a pasta em um endereço HTTPS acessível no Safari.
+2. Abra o endereço no Safari.
+3. Toque em Compartilhar.
+4. Escolha Adicionar à Tela de Início.
+5. Confirme em Adicionar.
+6. Abra o ícone Sphere World pela Tela de Início.
+
+Android:
+1. Publique ou hospede a pasta em um endereço HTTPS acessível no Chrome.
+2. Abra o endereço no Chrome.
+3. Toque no menu de três pontos.
+4. Escolha Adicionar à tela inicial ou Instalar aplicativo.
+5. Confirme a instalação.
+
+Observação: o modo instalável do iOS/Android exige HTTPS para registrar o service worker. Para teste local em computador, use ABRIR-SPHERE-WORLD.bat no Windows ou um servidor local equivalente.
