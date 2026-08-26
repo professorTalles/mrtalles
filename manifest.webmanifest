@@ -3,7 +3,7 @@
   "short_name": "Sphere World",
   "description": "Experiências educacionais interativas da Sphere.",
   "lang": "en-US",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#F7F6F0",
