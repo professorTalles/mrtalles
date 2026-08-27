@@ -1,11 +1,11 @@
-SPHERE WORLD — PACOTE CORRIGIDO PARA GITHUB PAGES
+SPHERE WORLD — BUILD ATUALIZADO PARA GITHUB PAGES
 
 Substitua na raiz do repositório os arquivos atuais pelos arquivos desta pasta.
 A estrutura final deve conter index.html, assets/, manifest.webmanifest, sw.js e .nojekyll diretamente na raiz.
 
-URL esperada:
+URL:
 https://professortalles.github.io/mrtalles/
 
-A correção usa caminhos relativos e funciona em repositórios publicados dentro de subpastas, como /mrtalles/. Android deve abrir no Chrome e iOS no Safari.
+Este build corrige a tela branca em repositórios publicados dentro de subpastas, mantém os objetos do Code the Bee proporcionais ao mapa e inclui os assets locais da logo e da abelha.
 
-Depois do upload, aguarde o GitHub Pages publicar e faça uma atualização forçada no celular. Se o aparelho já tiver instalado uma versão anterior, remova o atalho antigo e adicione-o novamente para renovar o service worker.
+Depois do upload, aguarde o GitHub Pages publicar. No celular, remova o atalho antigo, limpe os dados do site se necessário e adicione novamente à tela inicial para renovar o service worker.
