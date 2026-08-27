@@ -1,9 +1,10 @@
-SPHERE WORLD — PACOTE CORRIGIDO PARA GITHUB PAGES
+SPHERE WORLD — BUILD 6×6
 
-1. Envie todo o conteúdo desta pasta para a raiz do repositório GitHub Pages.
-2. Mantenha index.html, assets/, manifest.webmanifest, sw.js e .nojekyll.
-3. Depois do deploy, abra o site e toque uma vez na tela caso o navegador bloqueie o autoplay.
-4. Para testar o som: abra SETTINGS e deixe BACKGROUND MUSIC em ON. O menu, Shapes & Colors e Code the Bee usam trilhas MP3 diferentes.
-5. Se a versão antiga continuar aparecendo, remova o atalho PWA antigo e limpe os dados/cache do site antes de abrir novamente.
+Envie todo o conteúdo desta pasta para a raiz do repositório GitHub Pages.
+O Code the Bee usa uma grade 6×6, mantendo o percurso de oito movimentos.
+A abelha mantém largura e altura iguais, com tamanho mínimo responsivo de 40px.
+O crédito permanece no rodapé, em posição mais alta e legível.
 
-O lockup do topo agora exibe somente a logo Sphere, sem WORLD OF OPPORTUNITIES. O crédito completo aparece no menu, durante os jogos e nas telas de conclusão.
+Trilhas locais: assets/music/menu.mp3, shapes.mp3 e bee.mp3.
+Se o navegador móvel bloquear autoplay, toque uma vez na tela para iniciar.
+Se a versão antiga continuar aparecendo, limpe os dados/cache do site ou remova o PWA antigo.
