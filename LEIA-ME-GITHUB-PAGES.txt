@@ -1,11 +1,9 @@
-SPHERE WORLD — BUILD ATUALIZADO
+SPHERE WORLD — BUILD COM MÚSICA AUTOMÁTICA
 
-Envie todos os arquivos desta pasta para a raiz do repositório GitHub Pages.
-A estrutura deve manter index.html, assets/, manifest.webmanifest, sw.js e .nojekyll na raiz.
+Envie o conteúdo desta pasta para a raiz do repositório GitHub Pages.
+Mantenha index.html, assets/, manifest.webmanifest, sw.js e .nojekyll na raiz.
 
-Este build inclui uma música instrumental suave diferente no menu, em Shapes & Colors e no Code the Bee. As trilhas ficam em assets/music/ e funcionam localmente, sem internet.
-
-O crédito aparece no menu e nas telas dos dois jogos. O slogan anterior foi removido de toda a interface.
+A trilha do menu, Shapes & Colors e Code the Bee inicia automaticamente ao abrir cada tela. Os navegadores podem bloquear áudio com som antes de qualquer interação; nesse caso, o primeiro toque em qualquer área retoma imediatamente a trilha correta.
 
 URL esperada: https://professortalles.github.io/mrtalles/
-Após o deploy, remova o atalho PWA antigo ou limpe os dados do site para renovar o cache.
+Após atualizar, remova o atalho PWA antigo ou limpe os dados do site para renovar o cache.
