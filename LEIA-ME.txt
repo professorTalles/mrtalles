@@ -1,13 +1,7 @@
-SPHERE WORLD — BUILD FINAL 6×6
+SPHERE WORLD — PACOTE VERTICAL OFFLINE / GITHUB PAGES
 
-Envie todo o conteúdo desta pasta para a raiz do repositório GitHub Pages.
+1. GitHub Pages: envie todo o conteúdo desta pasta para a raiz do repositório.
+2. Celular: abra o endereço HTTPS publicado e, se necessário, limpe o cache/PWA antigo antes de instalar novamente.
+3. Computador offline: sirva esta pasta por um servidor local. No Windows, execute `py -m http.server 8000` dentro dela se o Python estiver disponível; em macOS, execute `python3 -m http.server 8000`.
 
-O Code the Bee agora possui exatamente 6 casas na horizontal e 6 casas na vertical.
-A grade e o percurso usam a mesma escala, sem deformar a abelha.
-A abelha tem largura e altura iguais, preserva a proporção com object-fit contain e possui tamanho mínimo responsivo de 40px.
-O crédito fica no rodapé, em posição mais alta e legível.
-
-Trilhas locais: assets/music/menu.mp3, shapes.mp3 e bee.mp3.
-Se o navegador móvel bloquear autoplay, toque uma vez na tela para iniciar.
-O service worker usa o cache sphere-world-v4-6x6 para substituir a versão antiga.
-Se a versão anterior continuar aparecendo, limpe os dados/cache do site ou remova o PWA antigo.
+A versão inclui o menu vertical, logo ampliada, rodapé flutuante, SETTINGS em todas as telas, volumes separados de música/efeitos/voz, três MP3 locais e grade 6×6 no Code the Bee.

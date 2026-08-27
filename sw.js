@@ -1,4 +1,4 @@
-const CACHE_NAME = "sphere-world-v4-6x6";
+const CACHE_NAME = "sphere-world-v5-vertical";
 const BASE_PATH = new URL(".", self.registration.scope).pathname;
 const APP_SHELL = [BASE_PATH, `${BASE_PATH}index.html`, `${BASE_PATH}manifest.webmanifest`];
 
