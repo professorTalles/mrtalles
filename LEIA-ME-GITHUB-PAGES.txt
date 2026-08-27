@@ -1,10 +1,11 @@
-SPHERE WORLD — BUILD CORRIGIDO PARA GITHUB PAGES
+SPHERE WORLD — BUILD ATUALIZADO
 
-Substitua na raiz do repositório os arquivos atuais pelos arquivos desta pasta.
-A estrutura final deve conter index.html, assets/, manifest.webmanifest, sw.js e .nojekyll diretamente na raiz.
+Envie todos os arquivos desta pasta para a raiz do repositório GitHub Pages.
+A estrutura deve manter index.html, assets/, manifest.webmanifest, sw.js e .nojekyll na raiz.
 
-URL: https://professortalles.github.io/mrtalles/
+Este build inclui uma música instrumental suave diferente no menu, em Shapes & Colors e no Code the Bee. As trilhas ficam em assets/music/ e funcionam localmente, sem internet.
 
-Este build corrige a escala mobile do Code the Bee: a abelha, as flores, a colmeia e as etiquetas acompanham proporcionalmente o tamanho das células do mapa.
+O crédito aparece no menu e nas telas dos dois jogos. O slogan anterior foi removido de toda a interface.
 
-Depois do upload, aguarde o GitHub Pages publicar. No celular, remova o atalho antigo e adicione novamente à tela inicial para renovar o service worker.
+URL esperada: https://professortalles.github.io/mrtalles/
+Após o deploy, remova o atalho PWA antigo ou limpe os dados do site para renovar o cache.
