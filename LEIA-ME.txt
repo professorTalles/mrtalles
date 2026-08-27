@@ -1,10 +1,13 @@
-SPHERE WORLD — BUILD 6×6
+SPHERE WORLD — BUILD FINAL 6×6
 
 Envie todo o conteúdo desta pasta para a raiz do repositório GitHub Pages.
-O Code the Bee usa uma grade 6×6, mantendo o percurso de oito movimentos.
-A abelha mantém largura e altura iguais, com tamanho mínimo responsivo de 40px.
-O crédito permanece no rodapé, em posição mais alta e legível.
+
+O Code the Bee agora possui exatamente 6 casas na horizontal e 6 casas na vertical.
+A grade e o percurso usam a mesma escala, sem deformar a abelha.
+A abelha tem largura e altura iguais, preserva a proporção com object-fit contain e possui tamanho mínimo responsivo de 40px.
+O crédito fica no rodapé, em posição mais alta e legível.
 
 Trilhas locais: assets/music/menu.mp3, shapes.mp3 e bee.mp3.
 Se o navegador móvel bloquear autoplay, toque uma vez na tela para iniciar.
-Se a versão antiga continuar aparecendo, limpe os dados/cache do site ou remova o PWA antigo.
+O service worker usa o cache sphere-world-v4-6x6 para substituir a versão antiga.
+Se a versão anterior continuar aparecendo, limpe os dados/cache do site ou remova o PWA antigo.
