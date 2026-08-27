@@ -1,9 +1,9 @@
-SPHERE WORLD — BUILD COM MÚSICA AUTOMÁTICA
+SPHERE WORLD — BUILD COM AUTOPLAY DE MÚSICA
 
 Envie o conteúdo desta pasta para a raiz do repositório GitHub Pages.
 Mantenha index.html, assets/, manifest.webmanifest, sw.js e .nojekyll na raiz.
 
-A trilha do menu, Shapes & Colors e Code the Bee inicia automaticamente ao abrir cada tela. Os navegadores podem bloquear áudio com som antes de qualquer interação; nesse caso, o primeiro toque em qualquer área retoma imediatamente a trilha correta.
+Cada tela tenta iniciar automaticamente sua trilha correspondente. Em celulares, o navegador pode bloquear áudio com som antes da primeira interação; nesse caso, o primeiro toque em qualquer área retoma imediatamente a música correta.
 
 URL esperada: https://professortalles.github.io/mrtalles/
 Após atualizar, remova o atalho PWA antigo ou limpe os dados do site para renovar o cache.
