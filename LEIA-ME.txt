@@ -1,7 +1,13 @@
-SPHERE WORLD — PACOTE VERTICAL OFFLINE / GITHUB PAGES
+SPHERE WORLD — PACOTE PARA GITHUB PAGES
 
-1. GitHub Pages: envie todo o conteúdo desta pasta para a raiz do repositório.
-2. Celular: abra o endereço HTTPS publicado e, se necessário, limpe o cache/PWA antigo antes de instalar novamente.
-3. Computador offline: sirva esta pasta por um servidor local. No Windows, execute `py -m http.server 8000` dentro dela se o Python estiver disponível; em macOS, execute `python3 -m http.server 8000`.
+1. Descompacte o ZIP.
+2. Envie todos os arquivos da pasta interna para a raiz do repositório.
+3. Substitua os arquivos da versão anterior.
+4. No celular, remova o PWA antigo ou limpe os dados/cache do site antes do primeiro teste.
 
-A versão inclui o menu vertical, logo ampliada, rodapé flutuante, SETTINGS em todas as telas, volumes separados de música/efeitos/voz, três MP3 locais e grade 6×6 no Code the Bee.
+Conteúdo desta versão:
+- Shapes & Colors com 3 níveis: 3 cores originais; depois Orange + Light Purple; depois 6 formas e 6 cores com Dark Green.
+- Code the Bee com 3 níveis de 5, 8 e 12 movimentos.
+- Flores com cor e forma diferentes em cada nível do Bee.
+- Feedback e navegação em inglês.
+- Música local em MP3 e imagens oficiais locais.
